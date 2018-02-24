@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "AdminUtilsSponge",
+    "name": "AdminUtilsSponge",
+    "description": "Sponge version of my Adminutils mod, this is mainly for perms on commands :P",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Bennyboy1695"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
